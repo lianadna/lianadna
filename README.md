@@ -6,7 +6,7 @@ interested in building purposeful, accessible, and human-centered products. -->
 
 <!--  ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnpwaHYyOW8wMDVpb3Z0NWs2NzhjeGxtaTh4MmE3NnVpbzMzeWJzZSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PFkgOFloYgGqc/giphy.gif)   -->
 
-![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRjdjExYmhlYXFqOGhmNmdsMHRyNHJjN2doNG1jano2YXE0bnNpdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PZrjGkr334fXa/giphy.gif) 
+<!-- ![GIF](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnRjdjExYmhlYXFqOGhmNmdsMHRyNHJjN2doNG1jano2YXE0bnNpdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/PZrjGkr334fXa/giphy.gif) -->
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=pseudosane&theme=tokyonight&hide_border=true)
 
