@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=B57F91&width=435&lines=develop+with+soul.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=code+my+future.)](https://git.io/typing-svg)
 
 <!-- ### About Me
 I am currently deepening my skills in front-end development;
